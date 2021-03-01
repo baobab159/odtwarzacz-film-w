@@ -1,0 +1,11 @@
+Odtwarzanie wideo
+Wybór pliku do odtwarzania z systemu plików (lub URL)
+Lista odtwarzania, zmiany kolejności odtwarzania na liście odtwarzania, usuwanie plików z listy odtwarzania.
+Zapis, odczyt playlisty z plików tekstowych
+Miniaturki filmów z obrazkiem.
+Samodzielnie zrealizowany panel sterowania odtwarzaniem.
+   Start, stop, odtwarzanie w pętli, odtwarzanie playlist pętli, odtwarzanie losowe, następny, poprzedni,
+   Czas odtwarzania, czas do końca utworu, czas do końca odtwarzania.
+   Pasek postępu w czasie odtwarzania (z ręcznym ustawieniem czasu.
+Parametry filmu (czas, długość, kodek opis, itp).
+Wyświetlenie wybranych parametrów odczytanych z tagów zawartych w pliku video (np. biblioteką TagLib)
